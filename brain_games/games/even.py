@@ -1,6 +1,6 @@
 from random import randint
 
-print('Answer "yes" if the number is even, otherwise answer "no".')
+condition = 'Answer "yes" if number even otherwise answer "no".'
 
 
 def is_even(number):
@@ -14,6 +14,3 @@ def get_answer():
     else:
         answer = "no"
     return question, answer
-
-
-print(is_even(101))
