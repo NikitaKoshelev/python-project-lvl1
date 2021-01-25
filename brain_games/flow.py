@@ -15,7 +15,11 @@ def flow_game(game):
         if correct_answer == answer:
             print("Correct!")
         else:
-            print("'{}' is wrong answer ;(. Correct answer was '{}'.".format(correct_answer, answer))
+            print(
+                "'{}' is wrong answer ;(. Correct answer was '{}'.".format(
+                    correct_answer, answer
+                )
+            )
             print("Let`s try again, {}!".format(name))
             return
         print("Congratulations, {}!".format(name))
