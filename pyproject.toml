@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "hexlet_code"
+name = "hexlet-code"
 version = "0.1.0"
 description = ""
 authors = ["Nikita <Nick026rus@gmail.com>"]
 packages = [
-  { include = "brain_games" },
+    { include = "brain_games" },
 ]
 [tool.poetry.scripts]
 brain-games = "brain_games.scripts.brain_games:main"
