@@ -19,4 +19,7 @@ def get_result():
     num1 = randint(1, 100)
     num2 = randint(1, 10)
     operator = choice(operators)
-    
+    question = "{} {} {}".format(
+        num1, operator, num2)
+    answer = str(calculating(num1, operator, num2))
+    return question, answer
