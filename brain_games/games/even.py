@@ -1,6 +1,6 @@
 from random import randint
 
-condition = 'Answer "yes" if number even otherwise answer "no".'
+DESCRIPTION = 'Answer "yes" if number even otherwise answer "no".'
 
 
 def is_even(number):
