@@ -15,8 +15,6 @@ Examples of games:
 
 
 
-Examples of games:
 
-### Brain Even
+### Brain Calc
 ###### Asciinema:
-[![asciicast](https://asciinema.org/a/u1u0N9TyAgd5PvMqp0K2MZKqn.svg)](https://asciinema.org/a/u1u0N9TyAgd5PvMqp0K2MZKqn)
