@@ -15,7 +15,6 @@ Examples of games:
 
 
 
-Examples of games:
 
 ### Brain Calc
 ###### Asciinema:
