@@ -22,4 +22,4 @@ Examples of games:
 
 ### Brain GCD
 ###### Asciinema
-https://asciinema.org/a/P7kx5Je3NYgIEGdeyRhX9rBqg
+[![asciicast](https://asciinema.org/a/P7kx5Je3NYgIEGdeyRhX9rBqg.svg)](https://asciinema.org/a/P7kx5Je3NYgIEGdeyRhX9rBqg)
