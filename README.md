@@ -18,3 +18,4 @@ Examples of games:
 
 ### Brain Calc
 ###### Asciinema:
+[![asciicast](https://asciinema.org/a/pVG5Ci1svkMtPEmgkulzVPWx1.svg)](https://asciinema.org/a/pVG5Ci1svkMtPEmgkulzVPWx1)
