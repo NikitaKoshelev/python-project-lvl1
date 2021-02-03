@@ -14,9 +14,9 @@ Mind Games is a set of five console games built on the principle of popular mobi
 # Games
 ### Calculator: Arithmetic expressions to be evaluated.
 ### Progression: Search for missing numbers in a sequence of numbers.
-### Definition: of an even number.
-### Determination: of the greatest common factor.
-### Definition: of a prime number.
+### Definition of an even number.
+### Determination of the greatest common factor.
+### Definition of a prime number.
 
 
 # Examples of games:
