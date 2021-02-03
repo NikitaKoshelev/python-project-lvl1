@@ -28,3 +28,8 @@
 ### Progression Game
 ###### Asciinema
 [![asciicast](https://asciinema.org/a/388658.svg)](https://asciinema.org/a/388658)
+
+
+### Prime Game
+###### Asciinema
+[![asciicast](https://asciinema.org/a/388839.svg)](https://asciinema.org/a/388839)
