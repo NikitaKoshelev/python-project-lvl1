@@ -19,7 +19,7 @@ Mind Games is a set of five console games built on the principle of popular mobi
 ### Definition: of a prime number.
 
 
-### Examples of games:
+## Examples of games:
 
 ### Even Game
 ###### Asciinema:
