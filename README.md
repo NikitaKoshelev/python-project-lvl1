@@ -10,7 +10,7 @@
 ## CodeClimate Maintainability badge: [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 
 # Description :memo:
-Mind Games is a set of five console games built on the principle of popular mobile brain-boosting apps. Each game asks questions that need to be answered correctly. After three correct answers, the game is considered to be completed. Wrong answers end the game and offer to play it again.
+#### Mind Games is a set of five console games built on the principle of popular mobile brain-boosting apps. Each game asks questions that need to be answered correctly. After three correct answers, the game is considered to be completed. Wrong answers end the game and offer to play it again.
 # Games :video_game:
 #### Calculator: Arithmetic expressions to be evaluated.
 #### Progression: Search for missing numbers in a sequence of numbers.
