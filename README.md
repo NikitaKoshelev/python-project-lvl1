@@ -9,17 +9,22 @@
 
 ### Examples of games:
 
-### Brain Even Game
+### Even Game
 ###### Asciinema:
 [![asciicast](https://asciinema.org/a/u1u0N9TyAgd5PvMqp0K2MZKqn.svg)](https://asciinema.org/a/u1u0N9TyAgd5PvMqp0K2MZKqn)
 
 
 
-### Brain Calc Game
+### Calc Game
 ###### Asciinema:
 [![asciicast](https://asciinema.org/a/pVG5Ci1svkMtPEmgkulzVPWx1.svg)](https://asciinema.org/a/pVG5Ci1svkMtPEmgkulzVPWx1)
 
 
-### Brain GCD Game
+### GCD Game
 ###### Asciinema
 [![asciicast](https://asciinema.org/a/P7kx5Je3NYgIEGdeyRhX9rBqg.svg)](https://asciinema.org/a/P7kx5Je3NYgIEGdeyRhX9rBqg)
+
+
+### Progression Game
+###### Asciinema
+[![asciicast](https://asciinema.org/a/388658.svg)](https://asciinema.org/a/388658)
