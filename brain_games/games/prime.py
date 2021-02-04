@@ -15,7 +15,7 @@ def is_prime(n):
         return True
 
 
-def get_answer():
+def get_round_info():
     question = randint(1, 100)
     if is_prime(question) is True:
         answer = 'yes'

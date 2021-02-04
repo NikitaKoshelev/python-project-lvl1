@@ -11,7 +11,7 @@ def generate_progression(start, diff, progression_length):
     return progression
 
 
-def get_answer():
+def get_round_info():
     start = randint(1, 100)
     diff = randint(1, 10)
     hidden_number = randint(1, progression_length - 1)

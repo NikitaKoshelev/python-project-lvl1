@@ -9,7 +9,7 @@ def flow_game(game):
     print("Hello, " + name + "!")
     print(game.DESCRIPTION)
     for i in range(ROUNDS_COUNT):
-        question, correct_answer = game.get_answer()
+        question, correct_answer = game.get_round_info()
         print("Question: {}".format(question))
         user_answer = prompt.string("Your answer: ")
         if correct_answer == user_answer:
