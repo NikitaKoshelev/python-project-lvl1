@@ -1,13 +1,25 @@
-# Hexlet tests and linter status
-[![Actions Status](https://github.com/NikitaKoshelev/python-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/NikitaKoshelev/python-project-lvl1/actions)
-![Hexlet-Linter](https://github.com/NikitaKoshelev/python-project-lvl1/workflows/Hexlet-Linter/badge.svg)
-
-## CodeClimate Maintainability badge
-[![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
+### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 
-### Examples of games:
+
+## Hexlet test: [![Actions Status](https://github.com/NikitaKoshelev/python-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/NikitaKoshelev/python-project-lvl1/actions)
+
+## Linter status: ![Hexlet-Linter](https://github.com/NikitaKoshelev/python-project-lvl1/workflows/Hexlet-Linter/badge.svg)
+
+## CodeClimate Maintainability badge: [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
+
+# Description :memo:
+#### Mind Games is a set of five console games built on the principle of popular mobile brain-boosting apps. Each game asks questions that need to be answered correctly. After three correct answers, the game is considered to be completed. Wrong answers end the game and offer to play it again.
+# Games :video_game:
+#### Calculator: Arithmetic expressions to be evaluated.
+#### Progression: Search for missing numbers in a sequence of numbers.
+#### Definition of an even number.
+#### Determination of the greatest common factor.
+#### Definition of a prime number.
+
+
+# Examples of games 
 
 ### Even Game
 ###### Asciinema:
@@ -28,3 +40,9 @@
 ### Progression Game
 ###### Asciinema
 [![asciicast](https://asciinema.org/a/388658.svg)](https://asciinema.org/a/388658)
+
+
+### Prime Game
+###### Asciinema
+[![asciicast](https://asciinema.org/a/388839.svg)](https://asciinema.org/a/388839)
+
