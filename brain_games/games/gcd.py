@@ -9,9 +9,9 @@ def get_gdc(num1, num2):
     return num1
 
 
-def get_round_count():
-    number1 = randint(1, 55)
-    number2 = randint(1, 55)
+def get_round_info():
+    number1 = randint(1, 59)
+    number2 = randint(1, 59)
     question = "{} {}".format(number1, number2)
     answer = get_gdc(number1, number2)
     return question, str(answer)

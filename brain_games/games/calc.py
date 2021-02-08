@@ -14,7 +14,7 @@ def calculating(num1, symbol, num2):
     return result
 
 
-def get_round_count():
+def get_round_info():
     number1 = randint(1, 100)
     number2 = randint(1, 10)
     operator = choice(operators)
