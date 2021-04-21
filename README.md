@@ -1,8 +1,3 @@
-
-
-
-
-
 ## Hexlet test: [![Actions Status](https://github.com/NikitaKoshelev/python-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/NikitaKoshelev/python-project-lvl1/actions)
 
 ## Linter status: ![Hexlet-Linter](https://github.com/NikitaKoshelev/python-project-lvl1/workflows/Hexlet-Linter/badge.svg)
